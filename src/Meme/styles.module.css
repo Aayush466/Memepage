@@ -1,0 +1,20 @@
+.contain img {
+    cursor: pointer;
+  }
+ 
+ .contain img:hover{
+    transform: scale(1.2);
+    transition-duration: 0.3s;
+  }
+
+  .contain h5 {
+    font-size: small;
+    text-align: center;
+    padding-top: 5%;
+  }
+
+  .contain hr {
+    border-top: 5px solid;
+  }
+  
+  
