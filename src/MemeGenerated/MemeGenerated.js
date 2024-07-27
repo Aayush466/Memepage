@@ -15,7 +15,7 @@ export const MemeGenerated = ({dark}) => {
     clipboard.copy(url);
     setCopied(true);
   }
-
+//test command//
   return (
     <section className={dark ? "bg-dark" : "bg-light"}  style={{height:"100vh"}}>
     <div className="p-4 container ">
